@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/mikyle/Pictures/wallpaperflare.com_wallpaper (6).jpg"
+let background = "#0b0c19"
+let foreground = "#f6eee2"
+let cursor     = "#f6eee2"
+
+" Colors
+let color0  = "#0b0c19"
+let color1  = "#666B85"
+let color2  = "#A3A0A2"
+let color3  = "#DCBAA6"
+let color4  = "#C5BFC8"
+let color5  = "#CAC5CD"
+let color6  = "#EBD9CA"
+let color7  = "#f6eee2"
+let color8  = "#aca69e"
+let color9  = "#666B85"
+let color10 = "#A3A0A2"
+let color11 = "#DCBAA6"
+let color12 = "#C5BFC8"
+let color13 = "#CAC5CD"
+let color14 = "#EBD9CA"
+let color15 = "#f6eee2"

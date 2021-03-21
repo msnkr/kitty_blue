@@ -1,0 +1,21 @@
+set $wallpaper /home/mikyle/Pictures/wallpaperflare.com_wallpaper (6).jpg
+
+set $background #0b0c19
+set $foreground #f6eee2
+
+set $color0 #0b0c19
+set $color1 #666B85
+set $color2 #A3A0A2
+set $color3 #DCBAA6
+set $color4 #C5BFC8
+set $color5 #CAC5CD
+set $color6 #EBD9CA
+set $color7 #f6eee2
+set $color8 #aca69e
+set $color9 #666B85
+set $color10 #A3A0A2
+set $color11 #DCBAA6
+set $color12 #C5BFC8
+set $color13 #CAC5CD
+set $color14 #EBD9CA
+set $color15 #f6eee2

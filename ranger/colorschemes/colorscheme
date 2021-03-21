@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/mikyle/Pictures/29bb2398-dcd3-44b3-8177-715532fca94yfye.png",
+    "alpha": "100",
+    "special": {
+        "background": "#000000",
+        "foreground": "#eaccab",
+        "cursor": "#eaccab"
+    },
+    "colors": {
+        "color0": "#0c0603",
+        "color1": "#C10000",
+        "color2": "#D02E1E",
+        "color3": "#AD532B",
+        "color4": "#C36A3D",
+        "color5": "#D07445",
+        "color6": "#709552",
+        "color7": "#eaccab",
+        "color8": "#a38e77",
+        "color9": "#C10000",
+        "color10": "#D02E1E",
+        "color11": "#AD532B",
+        "color12": "#C36A3D",
+        "color13": "#D07445",
+        "color14": "#709552",
+        "color15": "#eaccab"
+    }
+}
